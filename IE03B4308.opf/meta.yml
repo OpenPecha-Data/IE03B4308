@@ -1,0 +1,25 @@
+id: IE03B4308
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:42:20.435069'
+last_modified: '2022-05-31T06:42:20.435075'
+parser: null
+source_metadata:
+  title: Orgyen Tendzin Norbu Series
+  language: zh
+  description: 'Texts by and about Orgyen Tendzin Norbu (o rgyan bstan ''dzin nor
+    bu, 1841–1900), one of the main disciples of Dza Patrul Rinpoche:'
+  volume:
+    fDF17:
+      title: On the Final Words of Orgyen Tendzin Norbu
+      base_file: fDF17.txt
+      order: 1
+      parent: Commentaries
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
